@@ -1755,6 +1755,11 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
+api@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/api/-/api-0.0.1.tgz#8f2d31b27267a158cc7674d8f671d28553ff5b36"
+  integrity sha512-ACyyagYy4AzfQtvfAK2uahbOsN8Zh8cEP6wP5UU7VUCI1xtnl9iOE2sKgPxyFWzPjLarGDTpEvoK5YclAahCSA==
+
 aproba@^1.0.3, aproba@^1.1.1:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-1.2.0.tgz#6802e6264efd18c790a1b0d517f0f2627bf2c94a"
